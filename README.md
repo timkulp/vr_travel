@@ -1,2 +1,7 @@
 # vr_travel
-This is a sample project for building a travel app in VR
+Hello Everyone! 
+
+Sorry! Due to an issue with my GitHub setup. Sorry for the disconnect. Check back for the updated code later today (September 2nd). 
+
+Thanks,
+Tim
